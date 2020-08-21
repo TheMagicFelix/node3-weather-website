@@ -38,6 +38,10 @@ header a {
 }
 
 .portrait {
+	width: 250px;
+}
+
+.database {
 	width: 600px;
 }
 
